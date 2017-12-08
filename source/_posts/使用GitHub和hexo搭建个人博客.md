@@ -4,6 +4,8 @@ date: 2017-12-07 16:04:52
 tags:
 - hexo
 - git 
+categories:
+- blog
 ---
 2. 在github上新建一个 你的账号名.github.io的仓库
 3. 实现ssh免密登录
