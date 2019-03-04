@@ -3,9 +3,9 @@ layout: post
 title: "vuex入门总结"
 comments: true
 tags: 
-	- code 前端 
+	- vuex
 categories:
-	- JavaScript vue
+	- JavaScript
 ---
 使用 Vuex 并不意味着你需要将所有的状态放入 Vuex。虽然将所有的状态放到 Vuex 会使状态变化更显式和易调试，但也会使代码变得冗长和不直观。如果有些状态严格属于单个组件，最好还是作为组件的局部状态。你应该根据你的应用开发需要进行权衡和确定。
 + 项目目录结构

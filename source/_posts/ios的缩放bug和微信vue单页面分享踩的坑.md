@@ -4,7 +4,9 @@ title: "ios的缩放bug和微信vue单页面分享踩的坑"
 date: 2018-12-30 16:40:52
 comments: true
 tags: 
-	- code 前端 vue
+	- vue
+	- 微信
+	- JavaScript
 categories:
 	- JavaScript 
 ---

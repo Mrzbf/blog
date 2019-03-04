@@ -3,7 +3,7 @@ title: 使用GitHub和hexo搭建个人博客
 date: 2017-12-07 16:04:52
 tags:
 - hexo
-- git 
+- github
 categories:
 - blog
 ---

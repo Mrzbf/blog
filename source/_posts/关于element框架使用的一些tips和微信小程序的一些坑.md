@@ -2,10 +2,12 @@
 title: Js原生api scrollIntoView、element使用的小技巧、vue.nextTick()
 date: 2018-11-19 17:40:00
 tags:
-- gitment
-- 
+- vue
+- element
+- javascript
+- 小程序
 categories:
-- blog
+- javaScript
 ---
 ### 关于element框架使用的一些tips
 + element的大部分组件都会有custom-class这个属性，可以利用custom-class这个类名来改变组件样式达到自己需要的效果，自定义的样式不能加scope，要放在全局样式内，使用custom-class来改变样式也可以防止改变的样式污染全局中其他用到的同一组件的样式。
