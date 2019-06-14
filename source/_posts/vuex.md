@@ -2,6 +2,7 @@
 layout: post
 title: "vuex入门总结"
 comments: true
+date: 2018-05-14 17:00:52
 tags: 
 	- vuex
 categories:
