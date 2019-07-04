@@ -136,5 +136,17 @@ NODE_ENV=production
     "test": "vue-cli-service build --mode test",
   },
 ```
+### [vue-cli3中将资源文件不走babel编译](https://stackoverflow.com/questions/53628057/how-to-exclude-specific-file-from-babel-loader-when-using-vue-cli-setup)
+```
+在babel.config.js文件中
+const path = require('path')
+module.exports = {
+  presets: [],
+  plugins: [],
+  exclude: [
+    path.resolve('file path')
+  ]
+}
+```
 
 
